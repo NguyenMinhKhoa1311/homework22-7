@@ -271,8 +271,7 @@ dialog{
 }
 .containerupde{
     display: flex;
-    align-items: center;
-    justify-content: center;
+    
 
 }
 
@@ -290,5 +289,7 @@ dialog{
     cursor: pointer; /* Add a pointer on hover */
     padding-top: 100px;
   }
-
+.inputquantity{
+    width: 40px;
+}
 
